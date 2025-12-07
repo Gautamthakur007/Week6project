@@ -6,5 +6,9 @@
 <body>
     <h1>Welcome to My Week 6 Activity</h1>
     <p>This is a simple HTML program created for GitHub practice.</p>
+
+    <!-- NEW CHANGES -->
+    <h2>About This Project</h2>
+    <p>This line is added as part of Task 4 to show how GitHub tracks changes.</p>
 </body>
 </html>
