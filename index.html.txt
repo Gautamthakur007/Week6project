@@ -7,8 +7,16 @@
     <h1>Welcome to My Week 6 Activity</h1>
     <p>This is a simple HTML program created for GitHub practice.</p>
 
-    <!-- NEW CHANGES -->
+    <!-- NEW CHANGES (Task 4) -->
     <h2>About This Project</h2>
     <p>This line is added as part of Task 4 to show how GitHub tracks changes.</p>
+
+    <!-- NEW CHANGES (Task 5 – Second Change) -->
+    <h2>Additional Update</h2>
+    <p>This is the second update added for Task 5. It demonstrates how we modify a file, check the status in GitHub Desktop, commit the change, and push it to GitHub.</p>
+
+    <footer>
+        <p>Thank you for viewing my GitHub activity project!</p>
+    </footer>
 </body>
 </html>
